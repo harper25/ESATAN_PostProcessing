@@ -1,6 +1,6 @@
 classdef ESATAN_TMD_PostProcessing < handle
     %ESATAN_TMD_Class - used for post-processing of ESATAN TMD files.
-    %   Contact: Jakub Oleœ, koles104@gmail.com
+    %   Contact: olesjakubb@gmail.com
     %   27.08.2018
     
     properties (Access = private)
