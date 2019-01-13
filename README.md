@@ -5,18 +5,18 @@ By defining user node groups and running customized script, the user is able to 
 
 ## Getting Started
 
-#### Introduction
+### Introduction
 The project is written in Matlab and tested on Windows.
 Full functionality - including creating reports in tables - is reached with Microsoft Excel installed locally.
 
-#### Demo
+### Demo
 To see a demo, please run: `tmd_demo_gsgsat.m` (`GSG_SAT_POLAR.TMD` is read by default).
 
 Thorough instructions and explanations are included in:
 - demo file: `tmd_demo_gsgsat.m`,
 - inside specific function files.
 
-#### Tests
+### Tests
 The results of the tool were compared with ThermNV for several real analyses. It is advised, though, to correlate the results for the first 1-2 projects with ThermNV oneself, in order to catch bugs (if they exist).
 When using the tool and comparing with ThermNV, please, make sure that both tools use the same constants. The default constants for Matlab tool are: 
 
@@ -38,6 +38,14 @@ When using the tool and comparing with ThermNV, please, make sure that both tool
 
 - Min/max temperature report (generated to an Excel file):
 ![](/images/report.JPG)
+
+## Authors
+
+* [harper25](https://github.com/harper25)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgements
 
