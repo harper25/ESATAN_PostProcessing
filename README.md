@@ -45,7 +45,7 @@ When using the tool and comparing with ThermNV, please, make sure that both tool
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgements
 
